@@ -1,0 +1,5 @@
+{
+  "name": "AI Mockup & Image Studio",
+  "description": "An application to generate product mockups with your logo, edit images with text prompts, and generate new images from scratch using Gemini AI.",
+  "requestFramePermissions": []
+}
